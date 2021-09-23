@@ -1,3 +1,4 @@
 References
 1. Simão, Felipe A., et al. "BUSCO: assessing genome assembly and annotation completeness with single-copy orthologs." Bioinformatics 31.19 (2015): 3210-3212.
 2. Stanke, Mario, et al. "AUGUSTUS: ab initio prediction of alternative transcripts." Nucleic acids research 34.suppl_2 (2006): W435-W439.
+3. Kriventseva, Evgenia V., et al. "OrthoDB v10: sampling the diversity of animal, plant, fungal, protist, bacterial and viral genomes for evolutionary and functional annotations of orthologs." Nucleic acids research 47.D1 (2019): D807-D811.
